@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ramsen!</h1>
-<h3 align="center">A passionate computer engineering student!</h3>
 
 - 🌱 I’m currently learning **Python, Java, JavaScript, C, App Development, and TensorFlow.**
 
