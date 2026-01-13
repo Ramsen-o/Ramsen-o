@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ramsen!</h1>
-
-- 🌱 I’m currently learning **Python, Java, JavaScript, C, App Development, and TensorFlow.**
+<h1 align="center">Hi, I'm Ramsen!</h1>
 
 - 📫 How to reach me **ramsen.orah@gmail.com**
 
