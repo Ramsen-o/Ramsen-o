@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ramsen 👋</h1>
 
 <p align="center">
-  Builder interested in software, embedded systems, and practical AI projects.
+  Developer interested in software, embedded systems, and practical AI projects.
 </p>
 
 ## 📫 Contact
