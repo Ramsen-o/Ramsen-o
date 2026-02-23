@@ -22,14 +22,5 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
 </p>
-
-## 🚀 Suggested Improvements (next)
-If you want this README to stand out more, add:
-1. **Featured Projects** (3 links + one-line impact each)
-2. **What I’m Building Now** section
-3. **Tech Focus** (e.g., Android, Python, embedded/Linux)
-4. **Stats/Badges** (optional, keep it lightweight)
-
 ---
 
-> If you want, I can help you turn this into a polished “developer portfolio README” next.
